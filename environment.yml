@@ -1,0 +1,6 @@
+name: django3
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - django
