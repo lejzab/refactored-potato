@@ -25,7 +25,7 @@ SECRET_KEY = '_bj)2sr_g8lq84f%q))&*l(n=+t&sftdvm^k9pslp8ax4zkvs5'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['malinka.local']
 
 
 # Application definition
