@@ -129,3 +129,14 @@ dmypy.json
 .pyre/
 .vscode/settings.json
 deploy2malinka.sh
+
+#pycharm
+.idea
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
